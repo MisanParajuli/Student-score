@@ -1,0 +1,3 @@
+C:/Users/misan/CLionProjects/Student_score/cmake-build-debug/CMakeFiles/Student_score.dir
+C:/Users/misan/CLionProjects/Student_score/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/misan/CLionProjects/Student_score/cmake-build-debug/CMakeFiles/rebuild_cache.dir
